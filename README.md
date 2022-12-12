@@ -208,6 +208,7 @@ In the show, any of the following will result in you being vaporized, literally 
 - Entering a gate from the back
 - Being inside the gate when it shuts down
 - Being in the path of the Kawoosh
+
 I chose not to implement any of these because, how do you even deal with that in VRC? If you're making a Stargate Game or something I can see it being relevant, and wouldn't be too hard to do, but I haven't bothered yet. Might be an option on the prefab in the future.
 
 ![Poor dudes](Images/disintegrate.jpg)
