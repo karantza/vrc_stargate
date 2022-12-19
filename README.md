@@ -16,8 +16,7 @@ In addition to using this as a Stargate to teleport around your worlds, there is
 * Splashy water particles that look good in realistic lighting
 
 ## Demo world
-
-https://vrchat.com/home/content/worlds/wrld_8f59fd67-59c2-4e96-84a3-3527af9f4bbd
+https://vrchat.com/home/world/wrld_8f59fd67-59c2-4e96-84a3-3527af9f4bbd
 
 ## Contents of this Repo
 
